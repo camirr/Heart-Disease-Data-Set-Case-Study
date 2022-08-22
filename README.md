@@ -1,1 +1,1 @@
-# Group_35_project_proposal
+# DSCI_100_Group_35_project
